@@ -42,6 +42,11 @@ emotion-music-system/
 ├── templates/index.html
 ├── static/songs/
 
+## 📸 Output
+
+![Output](<img width="721" height="745" alt="Screenshot 2026-04-08 112316" src="https://github.com/user-attachments/assets/629bdb72-321f-44bf-9ef8-47e24ac7f475" />
+utput.png)
+
 ## ⚠️ Note
 
 This is a basic system using OpenCV (not deep learning). Accuracy depends on lighting and facial visibility.
