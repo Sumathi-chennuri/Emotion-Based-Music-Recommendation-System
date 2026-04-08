@@ -44,8 +44,7 @@ emotion-music-system/
 
 ## 📸 Output
 
-![Output](<img width="721" height="745" alt="Screenshot 2026-04-08 112316" src="https://github.com/user-attachments/assets/0cc41e14-1bf1-47da-bc5b-00f205fe9574" />
-.png)
+(<img width="721" height="745" alt="Screenshot 2026-04-08 112316" src="https://github.com/user-attachments/assets/0cc41e14-1bf1-47da-bc5b-00f205fe9574" />)
 
 ## ⚠️ Note
 
